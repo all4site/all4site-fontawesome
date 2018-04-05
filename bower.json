@@ -4,9 +4,7 @@
     "All4site <all4sitecomua@gmail.com>"
   ],
   "description": "Обновленная подборка шрифтов",
-  "main": ["dist/css/fontawesome-all.css",
-        "dist/fonts/FontAwesome/fa-brands-400.woff2"
-  ]
+  "main": "dist/css/fontawesome-all.css",
   "license": "MIT",
   "homepage": "",
   "ignore": [
